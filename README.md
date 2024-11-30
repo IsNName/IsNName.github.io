@@ -1,2 +1,2 @@
 6530200436 Wasawat Boonporn 
-![image](IMG_20240621_131036_477.webp | width=100)
+<img src="https://github.com/IsNName/IsNName.github.io/blob/main/IMG_20240621_131036_477.webp" width="200" height="400" />
