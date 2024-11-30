@@ -1,6 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minimal
 title: Wasawat.B
 description: พื้นที่ส่งงานของผมมม
-logo: /path/to/IMG_20240621_131036_477.jpg
-show_downloads: true
 color: red
