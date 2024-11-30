@@ -1,4 +1,6 @@
-remote_theme: pages-themes/dinky@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-gem "github-pages", group: :jekyll_plugins
+theme: jekyll-theme-minimal
+title: Wasawat.B
+description: พื้นที่ส่งงานของผมมม
+logo: /path/to/IMG_20240621_131036_477.jpg
+show_downloads: true
+color: red
