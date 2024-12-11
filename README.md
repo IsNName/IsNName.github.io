@@ -4,7 +4,6 @@
 
 - IG:Wasawat_st
 - FB:Wasawat Boonporn
-- Phone:0929593931
 - Email:Wasawat.boonporn@gmail.con
 
 - WorkWeek 1
