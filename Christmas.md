@@ -1,4 +1,4 @@
 
-![รูปภาพตัวอย่าง](https://example.com/path-to-image.jpg)
+![รูปภาพตัวอย่าง](img/Christmas.png)
 
-[ดาวน์โหลดรูปภาพ](https://example.com/path-to-image.jpg)
+[ดาวน์โหลดรูปภาพ](https://example.com/Christmas.png)
