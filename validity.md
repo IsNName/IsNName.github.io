@@ -1,21 +1,20 @@
-# Data Quality: Validity
+# คุณภาพข้อมูล: ความถูกต้อง (Validity)
 
-## Definition
-**Validity** refers to whether data conforms to predefined formats and constraints. For example, a phone number must follow a specific format, an email must contain the "@" symbol, or a date must fall within a valid range.
+## คำจำกัดความ
+**ความถูกต้อง (Validity)** หมายถึง การที่ข้อมูลสอดคล้องกับรูปแบบและข้อจำกัดที่กำหนดไว้ล่วงหน้า เช่น หมายเลขโทรศัพท์ที่ต้องมีรูปแบบเฉพาะ อีเมลที่ต้องมีสัญลักษณ์ "@" หรือวันที่ที่ต้องอยู่ในช่วงเวลาที่ถูกต้อง
 
-## Source of Definition
+## แหล่งที่มาของคำจำกัดความ
 [What is Data Validity Check? - dqops.com](https://dqops.com/what-is-data-validity-check/)
 
-## Meaning by ChatGPT
-Validity in data quality means that the data is structured correctly and usable right away. It could involve checking if the data follows a correct format, such as dates in the expected format, non-negative numbers, or codes following a specific pattern. This ensures that the data can be used for analysis, reporting, or storage without further modification.
+## ความหมายจาก ChatGPT และ Gemini
 
-## Meaning by Gemini
-Validity in data quality refers to whether data aligns with the predefined structure and constraints. For example, phone numbers should match a specific format, emails should contain the "@" symbol, or dates should fall within a valid time range.
+| Model       | ความหมาย                                                                                                                                       |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| **ChatGPT** | ความถูกต้องในคุณภาพข้อมูลหมายถึงข้อมูลที่มีโครงสร้างที่ถูกต้องและพร้อมใช้งานทันที ซึ่งเกี่ยวข้องกับการตรวจสอบรูปแบบข้อมูล เช่น วันที่ ตัวเลขที่ไม่เป็นลบ หรือรหัสที่มีรูปแบบที่ถูกต้อง |
+| **Gemini**  | ความถูกต้องในคุณภาพข้อมูลหมายถึงการที่ข้อมูลสอดคล้องกับรูปแบบและข้อจำกัดที่กำหนดไว้ล่วงหน้า เช่น หมายเลขโทรศัพท์ที่ต้องมีรูปแบบเฉพาะ อีเมลที่ต้องมีสัญลักษณ์ "@" หรือวันที่ที่ต้องอยู่ในช่วงเวลาที่ถูกต้อง |
 
-## My Summary
-**Validity** is a crucial aspect of data quality that ensures data conforms to expected structures and formats. This makes the data usable for analysis and decision-making without requiring additional cleaning or modification.
+## สรุปของฉัน
+**ความถูกต้อง** เป็นมิติที่สำคัญของคุณภาพข้อมูล ซึ่งช่วยให้มั่นใจได้ว่าข้อมูลนั้นมีรูปแบบที่ถูกต้องและพร้อมใช้งานสำหรับการวิเคราะห์และการตัดสินใจ โดยไม่ต้องทำการแก้ไขเพิ่มเติม
 
-## Sample
-For example, if the phone number field in a database requires a 10-digit number starting with a specific area code, data that does not conform to this format would be considered invalid.
-
-
+## ตัวอย่าง
+ตัวอย่างเช่น หากฟิลด์หมายเลขโทรศัพท์ในฐานข้อมูลต้องการหมายเลขที่มี 10 หลักและเริ่มต้นด้วยรหัสพื้นที่ที่ถูกต้อง ข้อมูลที่ไม่ตรงตามรูปแบบนี้จะถือว่าไม่ถูกต้อง
