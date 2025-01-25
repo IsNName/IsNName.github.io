@@ -3,7 +3,7 @@
 
 ### **สถานที่**: ใช้ในระบบยืนยันตัวตนออนไลน์ เช่น การทำธุรกรรมทางการเงิน การเข้าสู่ระบบแอปพลิเคชัน หรือการเปลี่ยนรหัสผ่าน
 
-![OTP Example](image-placeholder.png)
+![OTP Example](Img/Securing.jpg)
 
 ### **Types of Security Controls**: Logical Controls  
 ### **Control Functions**: Preventative
