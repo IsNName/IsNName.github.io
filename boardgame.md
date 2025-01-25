@@ -5,7 +5,7 @@
 
 ## **✨ ภาพกิจกรรม**
 ### **ภาพกิจกรรม**
-1. ![ภาพกิจกรรมที่ 1](Picture/Boardgame/play1.jpg)
+1. ![ภาพกิจกรรมที่ 1](Img/boardgame_1.jpg)
 2. ![ภาพกิจกรรมที่ 2](Picture/Boardgame/play2.jpg)
 3. ![ภาพกิจกรรมที่ 3](Picture/Boardgame/us1.jpg)
 4. ![ภาพกิจกรรมที่ 4](Picture/Boardgame/us2.jpg)
