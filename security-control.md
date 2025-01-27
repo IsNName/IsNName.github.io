@@ -3,7 +3,7 @@
 
 ### **สถานที่**: ใช้ในระบบยืนยันตัวตนออนไลน์ การเข้าสู่ระบบFacebook
 
-![OTP Example](Img/Securing.jpg)
+![OTP Example](Img/Sc.jpg)
 
 ### **Types of Security Controls**: Logical Controls  
 ### **Control Functions**: Preventative
