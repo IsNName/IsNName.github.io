@@ -39,7 +39,7 @@
 ---
 
 ## **👥 สมาชิกกลุ่ม Seksan-Salahsakul**
-1. ✨ **Tante Wanitchakorn** → [Github Page](https://Vorxp.github.io/boardgame)
+1. ✨ **Tante Wanitchakorn** → [Github Page](https://huggies2003.github.io/Boardgame)
 2. ✨ **Poramet Obyam** → [Github Page](https://poramet04.github.io/Boardgame)
 3. ✨ **Vorapol Boonrasri**  → [Github Page](https://Vorxp.github.io/boardgame)
 4. ✨ **Wasawat Boonporn** → [Github Page](https://IsNName.github.io/boardgame)
