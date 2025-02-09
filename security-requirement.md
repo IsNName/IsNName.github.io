@@ -1,6 +1,6 @@
 # 🔥 **Security Requirement** 🔥
 
-## 🏆 2.8.4 ~~One Time Verifier~~ 🎯
+## 🏆 2.8.. One Time Verifier 🎯
 
 ---
 
