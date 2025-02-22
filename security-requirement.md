@@ -5,10 +5,10 @@
 ---
 
 ### 🎇 **Detail**  
-> 🕒 **Time-based OTP (TOTP) ต้องใช้ได้เพียงครั้งเดียว** ภายในระยะเวลาที่กำหนด  
-> ❌ ห้ามใช้ซ้ำ แม้ว่า OTP จะยังไม่หมดอายุ เพื่อป้องกัน **Replay Attack** และ **Brute-force Attack**  
-> 🔐 ระบบต้องตรวจสอบว่า OTP **ยังไม่เคยถูกใช้งานมาก่อน** และสามารถใช้งานได้เฉพาะ **ครั้งแรกที่ถูกใช้เท่านั้น**  
-> 🚨 หากมีความพยายามใช้รหัสซ้ำ ระบบต้องปฏิเสธทันที และอาจบันทึกเหตุการณ์เพื่อใช้ในการตรวจสอบ  
+> 🕒 **Time-based OTP (TOTP) must be used only once** within its validity period.  
+> ❌ Reuse is strictly prohibited, even if the OTP has not yet expired, to prevent **Replay Attacks** and **Brute-force Attacks**.  
+> 🔐 The system must verify that the OTP **has never been used before** and can only be used **the first time it is entered**.  
+> 🚨 If there is an attempt to reuse the OTP, the system must reject it immediately and may log the event for auditing purposes.
 
 ---
 
