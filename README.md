@@ -14,3 +14,4 @@
  1. [Security-control](security-control.md)
  1. [Pao-Election](pao-election.md)
  1. [Security-Requirement](security-requirement.md)
+ 1. [Clearing](clearing.md)
